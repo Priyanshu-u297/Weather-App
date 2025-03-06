@@ -71,7 +71,7 @@ async function checkWeather(city) {
                 break;
 
             default:
-                weatherIcon.src = "unknown.png";
+                weatherIcon.src = "Images/unknown.png";
         }
 
         // Show the weather info
